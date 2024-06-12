@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d2893895b1c3481d9a5d2ffb98ecd02d/artifacts
+end_time: 1718108539189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2893895b1c3481d9a5d2ffb98ecd02d
+run_name: awesome-chimp-829
+run_uuid: d2893895b1c3481d9a5d2ffb98ecd02d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718108534029
+status: 4
+tags: []
+user_id: mdev18

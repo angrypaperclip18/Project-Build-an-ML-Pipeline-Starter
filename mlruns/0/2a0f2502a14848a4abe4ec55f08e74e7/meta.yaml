@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2a0f2502a14848a4abe4ec55f08e74e7/artifacts
+end_time: 1718192745120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a0f2502a14848a4abe4ec55f08e74e7
+run_name: trusting-fawn-447
+run_uuid: 2a0f2502a14848a4abe4ec55f08e74e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718192671324
+status: 4
+tags: []
+user_id: mdev18

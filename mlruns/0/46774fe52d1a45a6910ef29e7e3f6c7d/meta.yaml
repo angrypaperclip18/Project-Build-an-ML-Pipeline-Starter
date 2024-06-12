@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/46774fe52d1a45a6910ef29e7e3f6c7d/artifacts
+end_time: 1718108950880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46774fe52d1a45a6910ef29e7e3f6c7d
+run_name: defiant-grouse-685
+run_uuid: 46774fe52d1a45a6910ef29e7e3f6c7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718108915463
+status: 3
+tags: []
+user_id: mdev18

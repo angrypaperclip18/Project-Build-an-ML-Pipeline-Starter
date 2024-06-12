@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e04fc551c7cc4522bc78b82c7c586061/artifacts
+end_time: 1718018964173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e04fc551c7cc4522bc78b82c7c586061
+run_name: amusing-loon-454
+run_uuid: e04fc551c7cc4522bc78b82c7c586061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718018888594
+status: 4
+tags: []
+user_id: mdev18

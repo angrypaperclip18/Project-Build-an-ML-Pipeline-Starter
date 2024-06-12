@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/956c1b46a4e64b8193cbab4d369b4118/artifacts
+end_time: 1718108538982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 956c1b46a4e64b8193cbab4d369b4118
+run_name: rare-worm-91
+run_uuid: 956c1b46a4e64b8193cbab4d369b4118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718108537011
+status: 4
+tags: []
+user_id: mdev18

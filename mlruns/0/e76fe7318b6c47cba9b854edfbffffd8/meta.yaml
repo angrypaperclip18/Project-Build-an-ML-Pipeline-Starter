@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e76fe7318b6c47cba9b854edfbffffd8/artifacts
+end_time: 1718019344827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e76fe7318b6c47cba9b854edfbffffd8
+run_name: polite-lynx-684
+run_uuid: e76fe7318b6c47cba9b854edfbffffd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718019343709
+status: 4
+tags: []
+user_id: mdev18

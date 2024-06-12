@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2a425c40f75a4cd3a0d23a9778b43845/artifacts
+end_time: 1718192745367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a425c40f75a4cd3a0d23a9778b43845
+run_name: exultant-zebra-202
+run_uuid: 2a425c40f75a4cd3a0d23a9778b43845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718192666432
+status: 4
+tags: []
+user_id: mdev18

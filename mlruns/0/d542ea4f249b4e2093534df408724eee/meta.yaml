@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d542ea4f249b4e2093534df408724eee/artifacts
+end_time: 1718023458972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d542ea4f249b4e2093534df408724eee
+run_name: caring-cow-645
+run_uuid: d542ea4f249b4e2093534df408724eee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718023457211
+status: 4
+tags: []
+user_id: mdev18

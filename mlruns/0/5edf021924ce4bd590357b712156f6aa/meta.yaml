@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5edf021924ce4bd590357b712156f6aa/artifacts
+end_time: 1718191997439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5edf021924ce4bd590357b712156f6aa
+run_name: wistful-lamb-871
+run_uuid: 5edf021924ce4bd590357b712156f6aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718191957124
+status: 3
+tags: []
+user_id: mdev18

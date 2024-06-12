@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/29665cc4d76d46eea65672d88ea0891d/artifacts
+end_time: 1718192070956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29665cc4d76d46eea65672d88ea0891d
+run_name: carefree-doe-426
+run_uuid: 29665cc4d76d46eea65672d88ea0891d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718191923777
+status: 3
+tags: []
+user_id: mdev18

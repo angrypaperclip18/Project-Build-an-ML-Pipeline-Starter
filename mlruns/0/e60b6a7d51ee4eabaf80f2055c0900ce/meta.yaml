@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e60b6a7d51ee4eabaf80f2055c0900ce/artifacts
+end_time: 1718023614568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e60b6a7d51ee4eabaf80f2055c0900ce
+run_name: debonair-owl-366
+run_uuid: e60b6a7d51ee4eabaf80f2055c0900ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718023612954
+status: 4
+tags: []
+user_id: mdev18

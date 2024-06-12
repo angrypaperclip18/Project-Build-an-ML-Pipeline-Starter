@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0e432e1745ee4e0abb3b1fb4ea57bb43/artifacts
+end_time: 1718107595057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e432e1745ee4e0abb3b1fb4ea57bb43
+run_name: sneaky-perch-298
+run_uuid: 0e432e1745ee4e0abb3b1fb4ea57bb43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718107482730
+status: 4
+tags: []
+user_id: mdev18

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9f32ac541b7848cabd1281634582e86c/artifacts
+end_time: 1718019090121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f32ac541b7848cabd1281634582e86c
+run_name: amazing-grub-580
+run_uuid: 9f32ac541b7848cabd1281634582e86c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718019089005
+status: 4
+tags: []
+user_id: mdev18

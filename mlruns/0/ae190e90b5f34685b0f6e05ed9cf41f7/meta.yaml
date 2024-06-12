@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ae190e90b5f34685b0f6e05ed9cf41f7/artifacts
+end_time: 1718107953775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae190e90b5f34685b0f6e05ed9cf41f7
+run_name: beautiful-lark-472
+run_uuid: ae190e90b5f34685b0f6e05ed9cf41f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718107948207
+status: 4
+tags: []
+user_id: mdev18

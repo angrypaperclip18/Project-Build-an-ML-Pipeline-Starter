@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a8716ee2cd1f4930884fc4e5a98bb743/artifacts
+end_time: 1718104816879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8716ee2cd1f4930884fc4e5a98bb743
+run_name: bemused-fly-734
+run_uuid: a8716ee2cd1f4930884fc4e5a98bb743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718104777137
+status: 3
+tags: []
+user_id: mdev18

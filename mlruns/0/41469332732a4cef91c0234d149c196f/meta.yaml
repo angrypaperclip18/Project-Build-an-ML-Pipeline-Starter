@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/41469332732a4cef91c0234d149c196f/artifacts
+end_time: 1718109004700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41469332732a4cef91c0234d149c196f
+run_name: enchanting-shad-911
+run_uuid: 41469332732a4cef91c0234d149c196f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718108951012
+status: 3
+tags: []
+user_id: mdev18

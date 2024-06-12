@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d560beb88acc420fa96dc1cc6b589d56/artifacts
+end_time: 1718056508535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d560beb88acc420fa96dc1cc6b589d56
+run_name: redolent-grub-642
+run_uuid: d560beb88acc420fa96dc1cc6b589d56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718056408911
+status: 3
+tags: []
+user_id: mdev18

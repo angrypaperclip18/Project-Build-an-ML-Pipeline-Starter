@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/780ef17d0fd8494c9c0d7941ae9b58b7/artifacts
+end_time: 1718109004888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 780ef17d0fd8494c9c0d7941ae9b58b7
+run_name: carefree-cub-251
+run_uuid: 780ef17d0fd8494c9c0d7941ae9b58b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718108761094
+status: 3
+tags: []
+user_id: mdev18

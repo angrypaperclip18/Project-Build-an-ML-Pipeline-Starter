@@ -1,0 +1,100 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-06-11T12:27:20.671453",
+    "startedAt": "2024-06-11T12:27:20.007329",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/home/mdev18/Project-Build-an-ML-Pipeline-Starter/multirun/2024-06-11/07-26-03/0/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "radom_forest_exporter"
+    ],
+    "state": "running",
+    "program": "/home/mdev18/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/angrypaperclip18/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "root": "/home/mdev18/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-99T92KD",
+    "username": "mdev18",
+    "executable": "/home/mdev18/miniconda3/envs/mlflow-ce66897ea4e243bfac57bea60d7108142b183e35/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 23.564193725585938
+    },
+    "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2070 SUPER",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 7.673900604248047
+    }
+}

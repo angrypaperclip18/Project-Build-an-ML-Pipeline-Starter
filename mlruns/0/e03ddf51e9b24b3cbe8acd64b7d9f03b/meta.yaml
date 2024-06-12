@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e03ddf51e9b24b3cbe8acd64b7d9f03b/artifacts
+end_time: 1718108868136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e03ddf51e9b24b3cbe8acd64b7d9f03b
+run_name: melodic-elk-715
+run_uuid: e03ddf51e9b24b3cbe8acd64b7d9f03b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718108764058
+status: 3
+tags: []
+user_id: mdev18

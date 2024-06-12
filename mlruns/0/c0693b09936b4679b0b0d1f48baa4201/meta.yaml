@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c0693b09936b4679b0b0d1f48baa4201/artifacts
+end_time: 1718107595312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0693b09936b4679b0b0d1f48baa4201
+run_name: placid-newt-465
+run_uuid: c0693b09936b4679b0b0d1f48baa4201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718107479728
+status: 4
+tags: []
+user_id: mdev18

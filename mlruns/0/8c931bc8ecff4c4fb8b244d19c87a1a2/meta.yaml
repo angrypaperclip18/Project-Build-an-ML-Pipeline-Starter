@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8c931bc8ecff4c4fb8b244d19c87a1a2/artifacts
+end_time: 1718193059539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c931bc8ecff4c4fb8b244d19c87a1a2
+run_name: adorable-shrike-680
+run_uuid: 8c931bc8ecff4c4fb8b244d19c87a1a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718193041178
+status: 3
+tags: []
+user_id: mdev18

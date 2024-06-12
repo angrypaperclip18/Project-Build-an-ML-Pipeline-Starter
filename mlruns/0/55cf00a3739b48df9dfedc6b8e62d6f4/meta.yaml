@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/55cf00a3739b48df9dfedc6b8e62d6f4/artifacts
+end_time: 1718106166810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55cf00a3739b48df9dfedc6b8e62d6f4
+run_name: suave-lynx-24
+run_uuid: 55cf00a3739b48df9dfedc6b8e62d6f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718106078767
+status: 3
+tags: []
+user_id: mdev18

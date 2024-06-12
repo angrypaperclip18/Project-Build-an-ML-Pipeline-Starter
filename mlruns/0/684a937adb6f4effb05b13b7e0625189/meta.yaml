@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/684a937adb6f4effb05b13b7e0625189/artifacts
+end_time: 1718019117790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 684a937adb6f4effb05b13b7e0625189
+run_name: exultant-carp-125
+run_uuid: 684a937adb6f4effb05b13b7e0625189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718019116617
+status: 4
+tags: []
+user_id: mdev18

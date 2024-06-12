@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d058d73581844573924e6c58730b56fb/artifacts
+end_time: 1718104817057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d058d73581844573924e6c58730b56fb
+run_name: resilient-bug-416
+run_uuid: d058d73581844573924e6c58730b56fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718104773557
+status: 3
+tags: []
+user_id: mdev18

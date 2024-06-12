@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7ab0c48a2a864764b80233ba430ea5fe/artifacts
+end_time: 1718108001531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ab0c48a2a864764b80233ba430ea5fe
+run_name: tasteful-fowl-134
+run_uuid: 7ab0c48a2a864764b80233ba430ea5fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718107999376
+status: 4
+tags: []
+user_id: mdev18

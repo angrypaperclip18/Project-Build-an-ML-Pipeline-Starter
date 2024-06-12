@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a8705a4c9da84712ae4e93f7c2820034/artifacts
+end_time: 1718108915335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8705a4c9da84712ae4e93f7c2820034
+run_name: traveling-chimp-697
+run_uuid: a8705a4c9da84712ae4e93f7c2820034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718108868265
+status: 3
+tags: []
+user_id: mdev18

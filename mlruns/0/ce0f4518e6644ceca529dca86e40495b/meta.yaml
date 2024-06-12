@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ce0f4518e6644ceca529dca86e40495b/artifacts
+end_time: 1718106166639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce0f4518e6644ceca529dca86e40495b
+run_name: chill-dog-23
+run_uuid: ce0f4518e6644ceca529dca86e40495b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718106083958
+status: 3
+tags: []
+user_id: mdev18

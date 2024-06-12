@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mdev18/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b877d4db43814ff9be7b9aafc112f361/artifacts
+end_time: 1718105690591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b877d4db43814ff9be7b9aafc112f361
+run_name: youthful-bee-260
+run_uuid: b877d4db43814ff9be7b9aafc112f361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718105651048
+status: 3
+tags: []
+user_id: mdev18
